@@ -2,6 +2,7 @@ body {
     background-color: #F2FFFC;
     font-family: "Crimson Text", serif;
     font-size:  200px;
+    line-height: 1.5;
 }
 main h1 {
     font-size: 60px;
@@ -16,4 +17,13 @@ h2 {
 }
 P{
     text-align: justify;
+}
+blockquote  {
+    background-color: #D9ESE3;
+    border: 0.6em solid #C2CCCA;
+    padding: 1em;
+    margin: 1em 2em;
+}
+a {
+    text-decoration: none;
 }
